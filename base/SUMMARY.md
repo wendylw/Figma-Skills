@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Page](README.md)
+* [Figma 常用快捷键](README.md)
