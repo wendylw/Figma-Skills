@@ -22,6 +22,21 @@ description: 这里介绍Figma的常用快捷键，提高生产效率
 
 **文本 快捷键：**T
 
+**重命名对象名字 快捷键：**(Mac: ⌘ + R)
+
+\*多对象重命名 快捷键：
+
+1.  选中多对象 + (Mac: ⌘ + R)，会出现重命名窗口&#x20;
+
+    <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+2.  在 1. 的图片中输入新名字的修改规则，Match是确定匹配的是原名字的哪个部分，Number ↑意思是升序数字，后面一个是降序，Start ascending from 可以修改起始数字。更多方法需要自己探索
+
+    <figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+
+
 #### 缩放
 
 **缩放 快捷键：**k
